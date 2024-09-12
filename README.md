@@ -6,6 +6,7 @@ I have a very non-professional writing style, so deal with it lol.<br>
 I use a ***lot*** of emoticons. >w<<br>
 
 Have a nice day *mmwah* :3<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leptonCyberSec&show_icons=true&layout=compact&theme=radical&hide_border=true&locale=en&custom_title=Most%20Used" alt="c1ph3rC4t" /><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leptonCyberSec&show_icons=true&theme=radical&hide_border=true&locale=en&custom_title=Other%20stats" alt="c1ph3rC4t" /><br>
 
